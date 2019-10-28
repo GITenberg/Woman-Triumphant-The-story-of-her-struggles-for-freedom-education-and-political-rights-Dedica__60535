@@ -1,5 +1,8 @@
 _repo: Woman-Triumphant-The-story-of-her-struggles-for-freedom-education-and-political-rights-Dedica__60535
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60535-h/images/cover.jpg
 creator:
   author:
     agent_name: Cronau, Rudolf
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51004
     wikipedia: https://en.wikipedia.org/wiki/Rudolf_Cronau
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60535#Woman-Triumphant-The-story-of-her-struggles-for-freedom-education-and-political-rights-Dedica_
 gutenberg_issued: '2019-10-20'
 gutenberg_type: Text
 identifiers:
