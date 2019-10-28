@@ -1,0 +1,31 @@
+_repo: Woman-Triumphant-The-story-of-her-struggles-for-freedom-education-and-political-rights-Dedica__60535
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cronau, Rudolf
+    aliases:
+    - Cronau, R.
+    - Cronau, Rudolph
+    birthdate: 1855
+    deathdate: 1939
+    gutenberg_agent_id: '51004'
+    url: http://www.gutenberg.org/2009/agents/51004
+    wikipedia: https://en.wikipedia.org/wiki/Rudolf_Cronau
+description: ''
+gutenberg_issued: '2019-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60535'
+  lccn: '19013731'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- History'
+- !lcc 'HQ'
+- GITenberg
+title: "Woman Triumphant: The story of her struggles for freedom, education and political\
+  \ rights.\r\nDedicated to all noble-minded women by an appreciative member of the\
+  \ other sex."
+url: http://www.gutenberg.org/ebooks/60535
